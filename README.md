@@ -121,6 +121,7 @@ The baseline model was Logistic Regression which achieved the average Fraud Dete
 ## 4.2 Final Model Performance
 
 Neural Network and Random Forest were amongst the model with high performance on Out-of-time. Neural Network performed a slightly better than the other; however, due to training a Neural Network model was more time-consuming, we didn’t select this model. Therefore, we selected Random Forest as the final model:
+
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/9fb2c90e-c279-4730-a946-4e9ebb9cc9b9">
 
 Below is the performance results of the best model:
